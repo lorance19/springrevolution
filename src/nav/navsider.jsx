@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Layout, Menu, Image} from 'antd';
-import {Nav} from 'react-bootstrap'
 
 import {
   CompassOutlined,
@@ -10,6 +9,7 @@ import {
   MailOutlined,
   UserDeleteOutlined 
 } from '@ant-design/icons';
+
 
 const { Sider } = Layout;
 const { SubMenu } = Menu;
@@ -38,9 +38,7 @@ class NavSider extends Component {
             
             <Menu theme="light" mode="inline" defaultSelectedKeys={['4']}    style = {iconStyle}>
               <SubMenu key="sub1" icon={<CompassOutlined /> } title="Home">
-                  
                   <Menu.Item key="1.0" style = {iconStyle}  onClick={()=>this.props.updateUserSelect("howitstart")}> How did it start </Menu.Item>
-                  
                   <Menu.Item key="1.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("aboutus")}> About Us </Menu.Item>
               </SubMenu>
               
@@ -51,7 +49,7 @@ class NavSider extends Component {
               
               <SubMenu key="sub3" icon={<UserDeleteOutlined /> } title="Victims">
                   <Menu.Item key="3.0" style = {iconStyle} onClick={()=>this.props.updateUserSelect("fallenHeros")}> Fallen Heros </Menu.Item>
-                  <Menu.Item key="3.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("detained")}> Detained </Menu.Item>
+                  <Menu.Item key="3.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("detained")}> Detained Status </Menu.Item>
                   <Menu.Item key="3.2" style = {iconStyle} onClick={()=>this.props.updateUserSelect("505")}> 505 </Menu.Item>
               </SubMenu>
               

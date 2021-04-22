@@ -35,6 +35,7 @@ class Navbar extends Component {
               <Header className="site-layout-background" style={{ padding: 0, backgroundColor: symbolColor, textAlign: 'center', color: 'white'} } >
                     Nway Oo Taw Lan Yay Logo
               </Header>
+              
               <NavContent userSelect = {userSelection}/> 
               
               <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>

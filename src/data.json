@@ -1,0 +1,5179 @@
+
+[
+  {
+    "Name": "Na Pwar (aka) Ko Nyi",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "8-Feb-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Mya Thwate Thwate Khaing",
+    "Sex": "F",
+    "Age": 19,
+    "DOI": "09-Feb-21",
+    "Organization": "Civilian",
+    "State": "Naypyidaw"
+  },
+  {
+    "Name": "Nay Nay Win Htet",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "15-Feb-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Thet Naing Win @ Min Min",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "20-Feb-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Wai Yan Tun",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "20-Feb-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyi Soe",
+    "Sex": "M",
+    "Age": 48,
+    "DOI": "20-Feb-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tin Htut Hein",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "20-Feb-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Yar Zar Aung",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "20-Feb-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Htet Khine @ Kyaw Htet Khaung",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "28-Feb-21",
+    "Organization": "Worker Association",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Pe Than @ Naw Ngo",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Than Win @ Jun Mar Khan",
+    "Sex": "M",
+    "Age": 36,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Lwin Lwin Oo",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Banyar Aung",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Hein Htut Aung",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tin Nwet Yi, Daw",
+    "Sex": "F",
+    "Age": 59,
+    "DOI": "28-Feb-21",
+    "Organization": "Teacher",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zin Linn Htet",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "28-Feb-21",
+    "Organization": "Worker",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Nyi Nyi Aung Htet Naing",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "28-Feb-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Maung Soe @ Sithu Soe",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kyi Hlaing Min @ Gaung Gyi",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Nay Myo Oo @ Nay Lin Aung",
+    "Sex": "M",
+    "Age": 34,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Maung Maung Oo",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "28-Feb-21",
+    "Organization": "Worker Association",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Day Si @ A Pu",
+    "Sex": "F",
+    "Age": 32,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zin Myo Thu @ abdul",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "28-Feb-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Kaung Paye Sone",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thiha Zaw @ Naung Naung",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "02-Mar-21",
+    "Organization": "Student",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Zin Ko Ko Thaw",
+    "Sex": "M",
+    "Age": 14,
+    "DOI": "03-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Naing Lin @ Pho Linn",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyal Sin Lin @ Kyar Shi",
+    "Sex": "F",
+    "Age": 19,
+    "DOI": "03-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nay Myo Aung",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "03-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myint Myint Zin @ Kyi Lin Aye",
+    "Sex": "F",
+    "Age": 36,
+    "DOI": "03-Mar-21",
+    "Organization": "Teacher",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyawt Nandar Aung",
+    "Sex": "F",
+    "Age": 19,
+    "DOI": "03-Mar-21",
+    "Organization": "King & Queen Hotel Staff",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Min Khant Kyaw @ Pho Thal",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "03-Mar-21",
+    "Organization": "Student",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ko Moe Aung",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Zaw Thein Aung",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Naing Win",
+    "Sex": "M",
+    "Age": 45,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kay Za Win",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "03-Mar-21",
+    "Organization": "Poet",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Wai Yan @ Kan Chun",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyaw Ye Aung",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Hein Htet Aung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Pho Chit",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Yar Zar Min",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Arkar Moe a.k.a Arkar Soe",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zwel Htet Soe",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Oo",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Sithu Shein @ Myat Thu Shein",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "04-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tun Maung",
+    "Sex": "M",
+    "Age": 47,
+    "DOI": "04-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Zaw Moe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "12-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Myint Myat",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "03-Mar-21",
+    "Organization": "Student (2nd year Civil, MTU, Magwe)",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Htet Wai  Htoo",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "03-Mar-21",
+    "Organization": "Student",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Zin Myo Maung",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "03-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Zaw Myo",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "05-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Naing Min Ko",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "05-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nan Wai Aung",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "05-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Htwe Naing",
+    "Sex": "M",
+    "Age": 53,
+    "DOI": "05-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Khin Maung Latt",
+    "Sex": "M",
+    "Age": 58,
+    "DOI": "07-Mar-21",
+    "Organization": "NLD ( Chair Person of Pabedan Township)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Myat Lin",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "07-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Ko Ko Lay @ Cho Tar",
+    "Sex": "M",
+    "Age": 62,
+    "DOI": "08-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Zin Min Htet",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "08-Mar-21",
+    "Organization": "Student",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Thiha Oo",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "08-Mar-21",
+    "Organization": "Activist",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Zaw Myat Linn",
+    "Sex": "M",
+    "Age": 46,
+    "DOI": "09-Mar-21",
+    "Organization": "NLD (Shwpyitha Township)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Htoo Aung Kyaw",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "10-Mar-21",
+    "Organization": "KBZ Staff",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Linn Htet",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "11-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Zaw Aung  @ Shwe Ah",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Thet Zaw Oo",
+    "Sex": "M",
+    "Age": 34,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Nyan Win @ Mying Win",
+    "Sex": "M",
+    "Age": 36,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Tike Paw",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Aung Kyaw Sint",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Kyi Phyo Wai",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Thike Soe",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Chit Min Thu",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Win Hlaing",
+    "Sex": "M",
+    "Age": 51,
+    "DOI": "11-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Kyaw Zin Latt @ Ah Shay Gyi",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "12-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Min Tun",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "12-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Sithu",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "12-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Aung Zaw @ Aung Than",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "12-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Paing Oo",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "12-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Htet Myat Aung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "13-Mar-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Phyo Wai Yan Kyaw",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "13-Mar-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kay Kyi",
+    "Sex": "F",
+    "Age": 53,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Saw Paye Naing",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "13-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Min Min Tun @ Myo Min Htet",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Ye Swe Oo",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Win Htay @ Shan Gyi",
+    "Sex": "M",
+    "Age": 56,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Win Phyo Aung",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "13-Mar-21",
+    "Organization": "Driver (Civilian)",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Linn Tun Aung",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Han Min Tun",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Nga Paing",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hla Min Thu",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "13-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Ye Aung",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kaung Paye Kyaw",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Kyaw Lin Htike",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Htet Naing Shein",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Tin Tin Win @ San Thee Mar",
+    "Sex": "F",
+    "Age": 38,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Sai Sithu @ Shan Gyi",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wai Phyo Aung @ Ko Jet",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "14-Mar-21",
+    "Organization": "Student (MiMBER Institute)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chrerry Win",
+    "Sex": "F",
+    "Age": 24,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Khant Nyar Hein @Akar Zaw",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "Student (1st year Medical)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Khant Soe",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chit Ko KO Phyo",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hein Htet Dwe",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Lin Lin Kyaw",
+    "Sex": "M",
+    "Age": 43,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Lin Khaing",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hla Min Oo",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Min Thu",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Min Tun",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Htut Aung",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Thiha Aye @Thiha",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zuu Wint War",
+    "Sex": "F",
+    "Age": 15,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Min Htet",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Lin Wai @ Kyan Kyaung",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Nay Lin Htet",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Myo Htut",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Bo Bo",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hein Soe @ Pho Thel",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Han Htet Aung",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Zayar Tun",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Phyoe Zaw Lin,U",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ko Htet",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hlaing Jack Maung",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Htet Linn Aung",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Zayar Linn",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Kaung Moe",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Naing Ye Kyaw",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Win Ko @ Tayoke @ Tai Tai",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Gyi @ Aung Min Tun",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "San Htay Aung",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Khant Aung Phyoe",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "14-Mar-21",
+    "Organization": "Student (1st year Civil)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Nanda Phyo Aung",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Phyo Htet",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Shein Naung Naung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "14-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Pho Kyaw",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Saw Paye Sone @ Saw Lal Pwl",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thet Wai Naing @ Lu Gyi",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wunna Aung @ Book Gyi",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Min Oo",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Than Lwin",
+    "Sex": "M",
+    "Age": 57,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Soe Htay Aung",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thurain @ Kyaw Kyaw Win",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Than Toe Aung",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Naing Win",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Sai Ko Ko Lwin @ Sai Ko",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aye Min",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Lay @ Yan Naing Tun",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Kyaw Htoo",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Kyaw",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Myint",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hla Htay",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Wai Yan Mout",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Myint",
+    "Sex": "M",
+    "Age": 75,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Naing Sithu",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Naing",
+    "Sex": "M",
+    "Age": 54,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Pho Htay Aung",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Yin Htwe @ Mg Mae Lone",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tun Win Han @ War So",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Win Kyi (Daw)",
+    "Sex": "F",
+    "Age": 78,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Ko Ko",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kaung Khant Ko",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Linn Aung",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Tun",
+    "Sex": "M",
+    "Age": 61,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ni Ni Aye",
+    "Sex": "M",
+    "Age": 48,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Htet",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Zaw @ Shine Ko  M",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyal Sin Hein",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Than",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Soe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Phyo Ko Ko",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Hlaing Win Aung",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chan Chan",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Than Zaw",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zayar Tun",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wai Phyo",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ba Khat @Moharmad Thwarhid",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Yan Paing @ Chit Aung",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tin Aung Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Pho Thet",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Win Shwe @ Kayin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Zaw Min",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thant Zin Oo",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wunna Kyaw",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wa Toke",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Kyaw",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tun Tun Naing",
+    "Sex": "M",
+    "Age": 43,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Win Naing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Zin Oo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Thu Aung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Zaw Htut",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Htay Win",
+    "Sex": "M",
+    "Age": 67,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myint Lwin",
+    "Sex": "M",
+    "Age": 56,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Moe Thu Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Min Htike",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Maung Naing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Sa Wai Yan Lin",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Aung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thet Wai @ Zaw Gyi",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Paing Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thiha Ko Ko Naing",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Khin Soe",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Hlaing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tun Tun Oo",
+    "Sex": "M",
+    "Age": 59,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chit Maung @ Chit",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "14-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chan Maye Linn",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Linn Tun",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Myo Oo @ Aung Thu",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Pho Than Chaung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Lwin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tun Win Kyaw @ Pyaung Gyi",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Thu Min",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Pan Myat Chal",
+    "Sex": "F",
+    "Age": 20,
+    "DOI": "15-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hla Soe",
+    "Sex": "M",
+    "Age": 52,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Kyaw Zaw",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Yan Myo Aung",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Myo Zaw",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tin Tun Aung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Ko Ko Khant",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Khin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Thet Naing Aung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Than Htike Oo",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thiha Kyaw @ Kyaw Gyi",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Yazar Tun",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Gwan Kyi",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Wai Phyo Thein",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Htet Aung @ Auwal",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Min Than Htike @ Htike Htike",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Maung Zaw",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Thura Kyaw",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Tint Naing",
+    "Sex": "M",
+    "Age": 52,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Thida Aye @ Mee Mee   F",
+    "Sex": "F",
+    "Age": 16,
+    "DOI": "15-Mar-21",
+    "Organization": "Student (BEHS)",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "U Zaw Min",
+    "Sex": "M",
+    "Age": 52,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Ye Myo Aung",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Myint",
+    "Sex": "M",
+    "Age": 47,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tun Tat Aung @ Pho Ngal",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "15-Mar-21",
+    "Organization": "Yin Mar Pin Forest Department Forest Head",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Zaw Min Oo",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "unknown",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Kyaw Kyaw @ Egga Moe Nyo",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "15-Mar-21",
+    "Organization": "NLD (CEC of Zabuthiri Township)",
+    "State": "Naypyidaw"
+  },
+  {
+    "Name": "Tauk Tun",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "16-Mar-21",
+    "Organization": "Student",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Shan Kayin @ Htut Myat Lin",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "16-Mar-21",
+    "Organization": "Student",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Sithu Aung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "16-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Kyaw Min Tun",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "16-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyaw Khaing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "16-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Shwe Sin Tun",
+    "Sex": "F",
+    "Age": 16,
+    "DOI": "16-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Htet Ko @ Ko Htet",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "16-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "San Win Hlaing",
+    "Sex": "M",
+    "Age": 44,
+    "DOI": "16-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Phay Thein Kyaw",
+    "Sex": "M",
+    "Age": 34,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "unknown",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Cung lian Ceu",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "17-Mar-21",
+    "Organization": "Gilgal Church",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyin Khant Man",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Do Suan Kim",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyaw Myint Win @ Nyi Lay",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aye Kyaw",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Phyo Kyaw Thu @Bay",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tar @ Swarlaybi Mya Win",
+    "Sex": "F",
+    "Age": 70,
+    "DOI": "17-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aye Aye Khaing @ Rosarnar Bi",
+    "Sex": "F",
+    "Age": 22,
+    "DOI": "18-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thiha Phyo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "18-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Naing Linn Aung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Khin Marlar Win @ Myo Lwin",
+    "Sex": "F",
+    "Age": 39,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Khun Kyaw Swar Lin",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "19-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Myint Aung",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "19-Mar-21",
+    "Organization": "Student (Engineer)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thint Zin Myo",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyan Aung @ San Pi",
+    "Sex": "M",
+    "Age": 47,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kayah"
+  },
+  {
+    "Name": "Myat Ko @ Phoe Zaw",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Min Htet Naing @ Shan Lay",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Tun Aung Kyaw",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Kyaw Thu Win",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "U Ann Duu @ Abdual",
+    "Sex": "M",
+    "Age": 62,
+    "DOI": "19-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Thet Paing Soe",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "20-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Kaung Htet",
+    "Sex": "M",
+    "Age": 15,
+    "DOI": "20-Mar-21",
+    "Organization": "student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Min Min Zaw",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Zuali @ Malan Zwal e",
+    "Sex": "F",
+    "Age": 35,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Moe Zaw Htwe @ Mg San",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hla Myo Thein @ Pho Thar",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Myo Htet",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Phyo Wai Tun",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Myo Oo",
+    "Sex": "M",
+    "Age": 44,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Phyo Mout Maung",
+    "Sex": "M",
+    "Age": 46,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Min Htike",
+    "Sex": "M",
+    "Age": 14,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Took Kyi",
+    "Sex": "M",
+    "Age": 51,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Linn Zaw Ko",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Sai Aung Myint",
+    "Sex": "M",
+    "Age": 50,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Mhwa Si",
+    "Sex": "F",
+    "Age": 66,
+    "DOI": "21-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Zaw Zaw",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nay Myo",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Hein Kyaw",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "22-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tun Tun Aung",
+    "Sex": "M",
+    "Age": 15,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Min Thu Aung",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Pho Ngal",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hlaing Myo Htet",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Baby Sein Myint",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Linn Htike @ Kyaung Thar",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "22-Mar-21",
+    "Organization": "Member of Chanmya Thitsar",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Ingem Bo",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Gyi @ Pauk Gyi",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Htein Linn",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Moe Kyaw Zin",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aye Chan Moe",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myint Thein",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Tint",
+    "Sex": "M",
+    "Age": 58,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Wai Lwin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "22-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Win Tun Oo",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "23-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Chan Thar Htwe",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "23-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Khin Myo Chit",
+    "Sex": "F",
+    "Age": 6,
+    "DOI": "23-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thin Soe Oo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "23-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Ko Zin @ Aung Ko Latt",
+    "Sex": "M",
+    "Age": 34,
+    "DOI": "23-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Wai Yan Htet Naing @ Pho Thar",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "23-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Moe Htet Wyne",
+    "Sex": "M",
+    "Age": 15,
+    "DOI": "23-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Pho Htee",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "24-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyi Set Hlaing",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "24-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nay Linn Htwe @ M",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Soe Naing Tun",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "25-Mar-21",
+    "Organization": "Student",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Win Swe",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Linn Htet",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Yan Aung",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "25-Mar-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Toe Zaw Aung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "25-Mar-21",
+    "Organization": "Civil Servant (CDM)",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Zaw Win Maung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Aung Khaing Soe Thu",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung Thu Tun",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Min Aung",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Naing Ye Linn",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "25-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Moe",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Win",
+    "Sex": "M",
+    "Age": 60,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Min Myat Paing",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Khin Khin Soe a.k.a Lar Ei Sar Be",
+    "Sex": "F",
+    "Age": 32,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Myo Aung",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Akar Oo",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Aung Aung",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Kyaw Thu",
+    "Sex": "M",
+    "Age": 36,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Hlaing Zaw Win @ Hlaing Kaw",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Aung Tun Aye",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "26-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myat Khaing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chit Ko",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ar Noe",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zin Min",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Maung Hti San Wan @Phi Tun",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "27-Mar-21",
+    "Organization": "Student",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tin Hla",
+    "Sex": "M",
+    "Age": 43,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thant Zin Tun @ Wet",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chit Bo Bo Nyein",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Tayzar Tun",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Lay",
+    "Sex": "M",
+    "Age": 49,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Chit Linn Thu Thura @ Than Win",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wai Lu",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ohnmar Shein",
+    "Sex": "F",
+    "Age": 50,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thet Naing Oo",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "27-Mar-21",
+    "Organization": "Former Military Officer",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ye Myat Thu @ Yay Chan",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Htet Aung @ Pho Dama",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Win Myint",
+    "Sex": "M",
+    "Age": 46,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Zin Myint",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wai Yan Min Htin",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Zaw Min",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "27-Mar-21",
+    "Organization": "Former Navy",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Sai Wai Yan",
+    "Sex": "M",
+    "Age": 14,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Win Min Oo",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wai Zin",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "27-Mar-21",
+    "Organization": "Tourist Guide",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myint Tun Aung",
+    "Sex": "M",
+    "Age": 47,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Pann Ei Phyu",
+    "Sex": "F",
+    "Age": 14,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tun Naing Win",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Phoe La Paye",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Phyo Thant Wai (Dr)",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Doctor",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nyein Min Soe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Win Zaw",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "27-Mar-21",
+    "Organization": "Former Police",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Win Myo Oo",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "27-Mar-21",
+    "Organization": "Engineer",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Win Maung @Kyaw Ko (Bighuka)",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Engineer",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Yarzar Linn",
+    "Sex": "M",
+    "Age": 36,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Lin Lin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thiha Kyaw",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Htet",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "27-Mar-21",
+    "Organization": "Student",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Min Thein",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Ye Zin Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Min Lwin",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Htut",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "unknown Name",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Daw Soe Yii",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "unknown Name",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "unknown Name",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Wai Maung",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tin Win",
+    "Sex": "M",
+    "Age": 59,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Saw (U)",
+    "Sex": "M",
+    "Age": 48,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thaung Naing Oo (U)",
+    "Sex": "M",
+    "Age": 46,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Naing (U)",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Win Tun",
+    "Sex": "M",
+    "Age": 14,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tun Yin",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Kyaw Naing",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Naung Naung",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Chit Phuu Thu",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Chit Thet Oo",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Htay",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Zarni Aung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Ibrahim @ Myo Zaw Aung",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Zaw Min Oo",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Htoo Myat Win",
+    "Sex": "M",
+    "Age": 13,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ko Kyawt",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "27-Mar-21",
+    "Organization": "Civil Servant",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kaung Kaung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Zin Tun Lwin",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Student",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Phyo Wai Toe",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Arkar",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Tun Oo",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyaw Thein",
+    "Sex": "M",
+    "Age": 45,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Phoe Chan",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "unknown Name",
+    "Sex": "M",
+    "Age": 9,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Chan Maye Kyaw",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Htet Myat Twin @ Thwalaha",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Wai Lwin Oo",
+    "Sex": "M",
+    "Age": 36,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Myo Han",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Wathone Soe",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Lwin Ko",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Nan Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Phoe Lone",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kaung Myat Thu",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Engineer",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kyaw Kyaw",
+    "Sex": "M",
+    "Age": 45,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "unknown Name",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Min Thant",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Mai Min Naung @ Ye Htet Naw",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "27-Mar-21",
+    "Organization": "Student (Law Final)",
+    "State": "Shan State (North)"
+  },
+  {
+    "Name": "Sai Hla Tun",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "27-Mar-21",
+    "Organization": "Shan Youth",
+    "State": "Shan State (North)"
+  },
+  {
+    "Name": "Tun Tint Khaing",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State (North)"
+  },
+  {
+    "Name": "unknown Name",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State (North)"
+  },
+  {
+    "Name": "Ko Min Naing",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Car Workshop",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Min Zaw Htwe",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Win Kyaw Soe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Shwe Myint",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Thant Zaw",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Aung Nyi Htwe",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Wai Linn",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Aye Myat Thu",
+    "Sex": "F",
+    "Age": 11,
+    "DOI": "27-Mar-21",
+    "Organization": "Student (Grade 5)",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Win Soe",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "27-Mar-21",
+    "Organization": "Daiwinkwin Strike",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Ye Yint Naung",
+    "Sex": "M",
+    "Age": 15,
+    "DOI": "27-Mar-21",
+    "Organization": "Student",
+    "State": "Shan State (North)"
+  },
+  {
+    "Name": "Thae Maung Maung",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Student (ABSFU)   Bago Strike",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kyaw Thura Aung",
+    "Sex": "M",
+    "Age": 45,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Shine Htet Aung",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "27-Mar-21",
+    "Organization": "Engineer/ Artist (Tamwe)",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Aung Zin Phyo",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "27-Mar-21",
+    "Organization": "Futsal Goalkeeper  Mandalay",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Myo Thwin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Naypyidaw"
+  },
+  {
+    "Name": "Kyaw Thura",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Thiha",
+    "Sex": "M",
+    "Age": 41,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Lin Maung",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "27-Mar-21",
+    "Organization": "Teacher",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Min Lwin Oo",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Aye @ Chit Ko Ko",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aye Ko",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Khine Zin Tun, Ma",
+    "Sex": "F",
+    "Age": 21,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Tin Win Tun, U",
+    "Sex": "M",
+    "Age": 47,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Yan Paing Oo, Ko",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Ye Htet @ Set Paing Oo",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Dr Thiha TinTun",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Doctor",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Boe Aung",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Soe Moe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Htet Naing",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thar Ko",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Maung Maung",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Zaw Htwe @ Mohamad Azikhan",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thet Phone Naung",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Kyaw Myint",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Zin Tun",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Thet",
+    "Sex": "M",
+    "Age": 49,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Paye Phyo Aung",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Pyae Phyo Thant",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thet Wai Wai Hlaing",
+    "Sex": "F",
+    "Age": 30,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thurain Tun",
+    "Sex": "M",
+    "Age": 35,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Htet Myat Kyaw",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Ko",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Min",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Min Thein",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Bagyi Aung",
+    "Sex": "M",
+    "Age": 45,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Thant",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Yan Naung",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Wai Phyo Naung",
+    "Sex": "M",
+    "Age": 15,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Min Latt",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Min Min Oo",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Wai Phyo Htet Naing",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Phoe Phyu",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Hein Sithu",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Min Than",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "27 Mar 21 injury",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Khaing",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thiha Zaw",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Myo Naing Win",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Naing Soe",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Naing Zaw",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Soe Myat Min",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Moe Khaing",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Mya Naing",
+    "Sex": "M",
+    "Age": 49,
+    "DOI": "27-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Win Toe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "27 Mar 21 arrest",
+    "Organization": "Civilian",
+    "State": "Shan State (South)"
+  },
+  {
+    "Name": "Kyaw Min Latt @ Pho Toke",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "27-Mar-21",
+    "Organization": "Student",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Zin Mar Aung",
+    "Sex": "F",
+    "Age": 24,
+    "DOI": "28-Mar-21",
+    "Organization": "Nurse",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Arr Khu",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Women for Justice (WJ)",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Sangtea",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Thar Chit",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Htan Haung Hlan",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung San Oo, Ko",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "28-Mar-21",
+    "Organization": "Student (ABSFU, Monywa)",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ko Byar @ Moe Zet",
+    "Sex": "M",
+    "Age": 16,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Thinzar Hein , Ma",
+    "Sex": "F",
+    "Age": 20,
+    "DOI": "28-Mar-21",
+    "Organization": "Nurse",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Min Thu Tun",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Koe Koe May",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Khine Zar Thwe, Ma",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Bank Staff (AYA)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Moe Tun, Ko",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Nyunt Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Moe Oo",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Paye Phyo Maung @ Pay Toe",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Maung Maung Aye",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zin Linn Aung @ Nga Linn",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Chit Ko Ko",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Maung Hla",
+    "Sex": "M",
+    "Age": 43,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Min Nyo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "28-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Wai Yan Moe",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "28-Mar-21",
+    "Organization": "Student",
+    "State": "Shan State (South)"
+  },
+  {
+    "Name": "Soe Moe Aung",
+    "Sex": "M",
+    "Age": 38,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Soe Paing",
+    "Sex": "M",
+    "Age": 50,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Htoo Htet Hlaing",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Min Zin",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Thu Htoo San",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Wai Lwin Oo",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Hein Tun @ Zaw",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nay Linn Saw",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Wai Phyo Thu @ Khin Hlaing",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "San Tint Naing",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Ko Ko Oo",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Ko Ko Lwin",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thein Aung",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Myo Thant",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Win Toe Aung",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Than",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thet Naing Tun",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Maung Ko Oo",
+    "Sex": "M",
+    "Age": 29,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Phyo Wai Tun",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Thar Chaw",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Aung Thu",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Yarzar Htwe @ Phoe Chi",
+    "Sex": "M",
+    "Age": 15,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Shein Thihan Linn @Ko Phyo",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "29-Mar-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kyaw Bo Bo Thein",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "29-Mar-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Naing Naing Oo",
+    "Sex": "M",
+    "Age": 53,
+    "DOI": "29-Mar-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Nyo Min Thu",
+    "Sex": "M",
+    "Age": 34,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Shan State (North)"
+  },
+  {
+    "Name": "Kyaw Thura",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Myo Zin @ Su Kan",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Than Zaw Oo",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Phoe La Paye @ Tin Win Htut",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Min Thu",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Augustine Thein Aung   M",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zayar Myo Naing",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "30-Mar-21",
+    "Organization": "Bank staff (MFI)",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Phoe Thar Lay @ Zaw Zaw Myin",
+    "Sex": "M",
+    "Age": 42,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Win Lwin",
+    "Sex": "M",
+    "Age": 49,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Zaw Lin",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Min Maw Tun",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "30-Mar-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Khaing Zaw Win",
+    "Sex": "M",
+    "Age": 17,
+    "DOI": "31-Mar-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Aung Min Thu @ Pesi",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "31-Mar-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Su Su Kyi",
+    "Sex": "F",
+    "Age": 33,
+    "DOI": "31-Mar-21",
+    "Organization": "Bank staff (Shinhan)",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Myo Thant Kyaw",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "31-Mar-21",
+    "Organization": "Student",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Khin Maung Nyo",
+    "Sex": "M",
+    "Age": 53,
+    "DOI": "01-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ye Nay Min",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "01-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Zaw Ko Latt",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "01-Apr-21",
+    "Organization": "Firefighter",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aye Chan",
+    "Sex": "M",
+    "Age": 36,
+    "DOI": "01-Apr-21",
+    "Organization": "Worker Activist",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Salai Van Biak Thang",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "01-Apr-21",
+    "Organization": "University Student",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Salai Min Si Min No",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "01-Apr-21",
+    "Organization": "University Student",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Yan Hlar",
+    "Sex": "M",
+    "Age": 68,
+    "DOI": "01-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Salai Than Sang",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "01-Apr-21",
+    "Organization": "Student",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Nyi Phyo Naing",
+    "Sex": "M",
+    "Age": 13,
+    "DOI": "02-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Thang Hou Gin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "02-Apr-21",
+    "Organization": "CDM Police",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ko Aung @ Aung Kyaw",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "02-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Tin Maung Myint",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "02-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung Myat Mon",
+    "Sex": "M",
+    "Age": 18,
+    "DOI": "03-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Thein Tan",
+    "Sex": "M",
+    "Age": 56,
+    "DOI": "03-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Ingyin May",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "03-Apr-21",
+    "Organization": "Teacher",
+    "State": "Mon State"
+  },
+  {
+    "Name": "Win Naing Oo @ Pho Thar",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "04-Apr-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Thein Tan Oo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "04-Apr-21",
+    "Organization": "Civilian",
+    "State": "Naypyidaw"
+  },
+  {
+    "Name": "Hein Thant",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "04-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Htet Htet Win",
+    "Sex": "F",
+    "Age": 19,
+    "DOI": "04-Apr-21",
+    "Organization": "Super Market staff",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Naing Win",
+    "Sex": "M",
+    "Age": 23,
+    "DOI": "05-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Mar Mar Toe",
+    "Sex": "F",
+    "Age": 37,
+    "DOI": "05-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Min Kyaw @ Japan",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "05-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Myo Lwin Oo",
+    "Sex": "M",
+    "Age": 48,
+    "DOI": "05-Apr-21",
+    "Organization": "Civilian",
+    "State": "Kayah"
+  },
+  {
+    "Name": "Aung paing Htwe",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "04-Apr-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Ye Min Tun",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "05-Apr-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Thein Chit",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "06-Apr-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Paw Kauk",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "06-Apr-21",
+    "Organization": "Civilian",
+    "State": "Kachin"
+  },
+  {
+    "Name": "Akar Thu Aung",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Shar Mar",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Security of Wesali hospital",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ngul Sian Pau",
+    "Sex": "M",
+    "Age": 64,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Yan Shin Htet",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Lar Shan Hlan Nar",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Van Thar Htan",
+    "Sex": "M",
+    "Age": 34,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Naing Aung Shein",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Yan Naing Tun",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Thaw Zin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Naing Linn Oo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Salai Lal Dan Sang",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Biak lawm cuang",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Chan Maye",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "A Ngal Lay",
+    "Sex": "M",
+    "Age": 48,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kyaw Myo Aung",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung San Linn",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Phoe La Paye",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Chit Foune",
+    "Sex": "M",
+    "Age": 27,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Kyaw Naing",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Maung Khant",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Myo Win",
+    "Sex": "M",
+    "Age": 53,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung Kyaw",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Shay Gyi",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "San Linn",
+    "Sex": "M",
+    "Age": 37,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Khant Phyo",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Jamar",
+    "Sex": "M",
+    "Age": 31,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Naung Khant Aung",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "07-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Tin Moe",
+    "Sex": "M",
+    "Age": 50,
+    "DOI": "10-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Soe Moe",
+    "Sex": "M",
+    "Age": 26,
+    "DOI": "10-Apr-21",
+    "Organization": "Civilian",
+    "State": "Magwe Region"
+  },
+  {
+    "Name": "Aung Nyein Htwe",
+    "Sex": "M",
+    "Age": 20,
+    "DOI": "10-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Thiha @ Kapali",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Ko Myo Gyi",
+    "Sex": "M",
+    "Age": 32,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Ko Naing",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Myo Min",
+    "Sex": "M",
+    "Age": 46,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Mon Myat Haz",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Unknown Name",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Myat Winpapa",
+    "Sex": "F",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Phoe Thar (Ngar Lu)",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Paing Zin Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Ko Ye Gyi",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Win Oo @ Hla Wai",
+    "Sex": "M",
+    "Age": 59,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Ko Lwin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Tin Aye",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Maung Thet",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Linn Htet Naing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kyaw Zaw Hein",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Phoe Htaung",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Soe Paing Oo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "A Guu",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Kaung Kyaw Tun",
+    "Sex": "M",
+    "Age": 19,
+    "DOI": "09-Apr-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Akar Min Khant",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Student 2nd year, Zoology",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Ko Zin",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Bo Bo Naing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Student, 1st year, Zoology",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Han Thwin Khant",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Htet Set Nyunt",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Student",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Win Hlaing",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "12-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Min Naing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "09-Apr-21",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  },
+  {
+    "Name": "Saw Sal Nay Mu",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "10-Apr-21",
+    "Organization": "Civilian",
+    "State": "Tanintharyi Region"
+  },
+  {
+    "Name": "Shine Wai Phyo",
+    "Sex": "M",
+    "Age": 21,
+    "DOI": "10-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Tun Tun Oo",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "11-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Aung Khant @ Par Khant",
+    "Sex": "M",
+    "Age": 33,
+    "DOI": "11-Apr-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Kyaw Lwin Htwe",
+    "Sex": "M",
+    "Age": 39,
+    "DOI": "12-Apr-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Harimaya Gtm",
+    "Sex": "F",
+    "Age": 30,
+    "DOI": "13-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Kishan Gtm",
+    "Sex": "M",
+    "Age": 40,
+    "DOI": "13-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing region"
+  },
+  {
+    "Name": "Nyein Htet",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "13-Apr-21",
+    "Organization": "Civilian",
+    "State": "Yangon Region"
+  },
+  {
+    "Name": "Zaw Win Naing",
+    "Sex": "M",
+    "Age": 46,
+    "DOI": "13-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Chit Thu",
+    "Sex": "M",
+    "Age": 30,
+    "DOI": "13-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Ye Naing",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "14-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Unknown Name",
+    "Sex": "F",
+    "Age": 28,
+    "DOI": "14-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Tin Maung San",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "13-Apr-21",
+    "Organization": "Civilian",
+    "State": "Irrawaddy Division"
+  },
+  {
+    "Name": "Salai Ezekiel",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "07-Apr-21",
+    "Organization": "Student",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Jhonmar Bi @ Ko Ko Htet",
+    "Sex": "M",
+    "Age": 24,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Gatone",
+    "Sex": "M",
+    "Age": 28,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Kyaw Hlaing Win",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Zin Ko",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Ko Naing",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung Naing Moe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Tin Moe",
+    "Sex": "M",
+    "Age": -1,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Win Ko",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "15-Apr-21",
+    "Organization": "Civilian",
+    "State": "Sagaing Region"
+  },
+  {
+    "Name": "Aung Zaw Moe @ Arr Yone",
+    "Sex": "M",
+    "Age": 48,
+    "DOI": "17-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Soe Thet Aung",
+    "Sex": "M",
+    "Age": 22,
+    "DOI": "17-Apr-21",
+    "Organization": "Civilian",
+    "State": "Mandalay Region"
+  },
+  {
+    "Name": "Aung Ko Ko Phyo",
+    "Sex": "M",
+    "Age": 25,
+    "DOI": "17-Apr-21",
+    "Organization": "Civilian",
+    "State": "Shan State"
+  },
+  {
+    "Name": "Kyi Khaing",
+    "Sex": "M",
+    "Age": 43,
+    "DOI": "2-Apr-2021",
+    "Organization": "Civilian",
+    "State": "Bago Region"
+  }
+]

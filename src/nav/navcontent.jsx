@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { Layout} from 'antd';
 import HowitStart from '../contents/home/howitstart'
+import {TodayNews} from '../contents/news/todaynews'
+import FallenHeros from '../victims/fallenheros'
+import Detains from '../victims/detained'
 
 const {  Content } = Layout;
 
@@ -10,6 +13,14 @@ class ChoosenContent extends Component {
     {
         if(x=== "howitstart")
             return(<HowitStart/>)
+        else if(x==="todaynews")
+            return(<TodayNews/>)
+        else if(x=== "fallenHeros")
+            return (<FallenHeros/>)
+        else if(x=== "detained")
+            return (<Detains/>)
+
+
     }
     
     render() {
