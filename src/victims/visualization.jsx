@@ -19,7 +19,7 @@ const Graphs= ( props) =>{
         return x.DOI;
     })
 
-    Dates =new Set(Dates);
+    Dates = new Set(Dates);
 
     
     
