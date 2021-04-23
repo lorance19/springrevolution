@@ -3,7 +3,11 @@ import { Layout, Image} from 'antd';
 
 import NavSider from './navsider';
 import NavContent from './navcontent'
-
+import {
+  BrowserRouter as Router,
+  Link,
+  useLocation
+} from "react-router-dom";
 
 
 const { Header, Content, Footer } = Layout;
@@ -30,6 +34,7 @@ class Navbar extends Component {
         console.log("this is userSelection: " + userSelection)
         return (   
         <Layout>
+          <Router>
             <NavSider  test = {userSelection} updateUserSelect={this.updateSelection}/>
             <Layout className="site-layout" style={{ marginLeft: 200 , backgroundColor: 'white'}}>
               <Header className="site-layout-background" style={{ padding: 0, backgroundColor: symbolColor, textAlign: 'center', color: 'white'} } >
@@ -40,6 +45,7 @@ class Navbar extends Component {
               
               <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
             </Layout>
+            </Router>
           </Layout>
         )
     }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Layout, Menu, Image} from 'antd';
-
+import{ Link}  from "react-router-dom";
 import {
   CompassOutlined,
   DollarCircleOutlined ,
@@ -38,8 +38,8 @@ class NavSider extends Component {
             
             <Menu theme="light" mode="inline" defaultSelectedKeys={['4']}    style = {iconStyle}>
               <SubMenu key="sub1" icon={<CompassOutlined /> } title="Home">
-                  <Menu.Item key="1.0" style = {iconStyle}  onClick={()=>this.props.updateUserSelect("howitstart")}> How did it start </Menu.Item>
-                  <Menu.Item key="1.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("aboutus")}> About Us </Menu.Item>
+                  <Menu.Item key="1.0" style = {iconStyle}  onClick={()=>this.props.updateUserSelect("howitstart")}> <Link to="/howitstart">How did it start</Link> </Menu.Item>
+                  <Menu.Item key="1.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("aboutus")}> <Link to="/aboutus">About Us</Link> </Menu.Item>
               </SubMenu>
               
               <SubMenu key="sub2" icon={<ProfileOutlined /> } title="News">
@@ -48,7 +48,7 @@ class NavSider extends Component {
               </SubMenu>
               
               <SubMenu key="sub3" icon={<UserDeleteOutlined /> } title="Victims">
-                  <Menu.Item key="3.0" style = {iconStyle} onClick={()=>this.props.updateUserSelect("fallenHeros")}> Fallen Heros </Menu.Item>
+                  <Menu.Item key="3.0" style = {iconStyle} onClick={()=>this.props.updateUserSelect("fallenHeros")}> <Link to= "/fallenheros">Fallen Heros</Link></Menu.Item>
                   <Menu.Item key="3.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("detained")}> Detained Status </Menu.Item>
                   <Menu.Item key="3.2" style = {iconStyle} onClick={()=>this.props.updateUserSelect("505")}> 505 </Menu.Item>
               </SubMenu>
