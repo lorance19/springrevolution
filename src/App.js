@@ -7,7 +7,6 @@ import 'antd/dist/antd.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'antd/dist/antd.less';
 
-
 function App() {
   return (
     <div className="App">
