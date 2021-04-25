@@ -16,7 +16,13 @@ class FallenHeros extends Component {
     
     componentDidMount()
     {
-        this.setState({list: data})
+        if(this.state.list.length=== 0 )
+        {
+                this.setState({list: data})
+                console.log("List size is zero")
+        }
+        else 
+            console.log( "List size is " + this.state.list.length)
     }
 
     render() { 
