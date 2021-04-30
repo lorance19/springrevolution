@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {symbolColor, headerStyles } from '../../constants/styles'
 import {Contents} from '../home/contents.jsx'
 
-const HowitStart =()=> {
+const HowitStart = React.memo(()=> {
 
         return (
             <div>
@@ -11,6 +11,6 @@ const HowitStart =()=> {
             </div>
           );
     
-}
+})
  
 export default HowitStart;

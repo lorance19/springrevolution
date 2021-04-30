@@ -19,10 +19,8 @@ class FallenHeros extends Component {
         if(this.state.list.length=== 0 )
         {
                 this.setState({list: data})
-                console.log("List size is zero")
         }
-        else 
-            console.log( "List size is " + this.state.list.length)
+      
     }
 
     render() { 
@@ -39,4 +37,4 @@ class FallenHeros extends Component {
     }
 }
  
-export default FallenHeros;
+export default React.memo(FallenHeros);

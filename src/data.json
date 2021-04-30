@@ -3716,7 +3716,7 @@
     "Name": "Myo Min Than",
     "Sex": "M",
     "Age": 30,
-    "DOI": "27 Mar 21 injury",
+    "DOI": "27-Mar-21",
     "Organization": "Civilian",
     "State": "Mandalay Region"
   },
@@ -3788,7 +3788,7 @@
     "Name": "Aung Win Toe",
     "Sex": "M",
     "Age": -1,
-    "DOI": "27 Mar 21 arrest",
+    "DOI": "27-Mar-21",
     "Organization": "Civilian",
     "State": "Shan State (South)"
   },
@@ -5172,7 +5172,7 @@
     "Name": "Kyi Khaing",
     "Sex": "M",
     "Age": 43,
-    "DOI": "2-Apr-2021",
+    "DOI": "2-Apr-21",
     "Organization": "Civilian",
     "State": "Bago Region"
   }

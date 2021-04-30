@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {symbolColor, headerStyles } from '../../constants/styles'
 
 
-export function Contents() {
+export const  Contents = React.memo(() => {
   return (
     <div style={{fontFamily: "Times New Roman", textAlign: 'left' }}>
         On the morning of 1 February 2021, when democratically elected members of the country's ruling party, the National League for Democracy (NLD), were deposed by the Tatmadaw—Myanmar's military—which then vested power in a stratocracy. The Tatmadaw proclaimed a year-long state of emergency and declared power had been transferred to Commander-in-Chief of Defence Services Min Aung Hlaing. It declared the results of the November 2020 general election invalid and stated its intent to hold a new election at the end of the state of emergency even though most of Myanmar's people are satisfied with the results of the election.
@@ -14,4 +14,4 @@ export function Contents() {
         As of 12 April 2021, at least 707 civilians, including children, have been killed by military or police forces and at least 3,070 people detained. Three prominent NLD members also died while in police custody in March 2021.
     </div>
   );
-};
+});

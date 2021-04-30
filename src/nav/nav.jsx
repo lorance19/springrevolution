@@ -20,7 +20,6 @@ class Navbar extends Component {
      }
     }
 
-     
      updateSelection =text=>
      {
          this.setState(()=>{ 
