@@ -25,7 +25,7 @@ class ChoosenContent extends Component {
                 <Switch>
                     <Route exact path="/howitstart"><HowitStart/> </Route>
                     <Route path="/fallenheros"> <FallenHeros /></Route>
-                    <Route path=""><HowitStart/> </Route>
+                    <Route path="/"><HowitStart/> </Route>
                     
                 </Switch>
                 </div>
