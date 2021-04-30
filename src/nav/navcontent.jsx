@@ -23,9 +23,9 @@ class ChoosenContent extends Component {
                 <div className="site-layout-background" style={{ padding: 24, textAlign: 'center' }}>
                  
                 <Switch>
-                    <Route exact path="/howitstart" component={HowitStart}/>
-                    <Route path="/fallenheros" component={FallenHeros } />
-                    <Route path=""  component={HowitStart } />
+                    <Route path="/howitstart" component={HowitStart}/>
+                    <Route path="/fallenheros" component= {FallenHeros} />
+                    <Route path=""  component={HowitStart} />
                     
                 </Switch>
                 </div>
