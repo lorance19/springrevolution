@@ -1,19 +1,15 @@
-import { Line, Column, Bar  } from '@ant-design/charts';
-import { FormItemPrefixContext } from 'antd/lib/form/context';
+import { Column, Bar  } from '@ant-design/charts';
 import React, { useState } from "react";
 import _ from "lodash"
 import {symbolColor, headerStyles} from '../constants/styles'
 
-let RegionDeathJson = {}
-let DateDeathJson = {}
 
 const Graphs=  React.memo(( props) =>{
-    const [data, setData] = useState(props.data)
-    const [count, setCount] = useState(0);
+    const [data] = useState(props.data)
 
     
     let DeathByAge = _.map(data, function (x) {
-      if(x.Age == -1 )
+      if(x.Age === -1 )
         return   {Range: "Unknown", Age: x.Age} 
       if(x.Age > 0 && x.Age <= 10 )
         return  {Range: "1-10", Age: x.Age}
@@ -75,7 +71,10 @@ const Graphs=  React.memo(( props) =>{
           data: DeathByAge2,
           xField: 'Count',
           yField: 'Range',
-          color : symbolColor
+          color : symbolColor,
+          barStyle: {
+            lineWidth: 0.1,
+          }
         };
 
         return (<>
@@ -85,8 +84,10 @@ const Graphs=  React.memo(( props) =>{
              <h3 style= {headerStyles}> Total Deaths ( By Dates) </h3>
              <Column {...config2}/>
              <br/>
+             <br/>
+
              <h3 style= {headerStyles}> Total Deaths ( By Ages) </h3>
-             <Bar {...config3} />;
+             <Bar {...config3} />
         </>  );
     
 })

@@ -1,30 +1,35 @@
 
 import React, { Component } from 'react';
 import {getFallenHeros} from '../dummyvictims'
-import Table from '../common/Table'
+import Tabled from '../common/Tabled'
 import { headerStyles } from '../constants/styles'
 
+let  data = require('../Detain.json'); 
 class Detain extends Component {
     state ={
         list: [],
-        pageSize: 10,
-        sortColumn: { path: "name",  order: "asc"}
+        
     };
     
     componentDidMount()
     {
-        this.setState({list: getFallenHeros()})
+        if(this.state.list.length=== 0 )
+        {
+                this.setState({list: data})
+        }
+      
     }
+
 
     render() { 
         return ( 
             <>
-            <h2 style={headerStyles}><b>Detained Count : 2000+</b> </h2> <br/>
+            <h2 style={headerStyles}><b>Detained : {this.state.list.length} </b> </h2> <br/>
             <h3 style={headerStyles}>The following table shows the information of the protesters who had been detained: </h3> 
-            <Table list={this.state.list}/>
+            <Tabled list={this.state.list}/>
             </>
          );
     }
 }
  
-export default Detain;
+export default React.memo(Detain)

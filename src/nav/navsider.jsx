@@ -42,24 +42,24 @@ class NavSider extends Component {
                   <Menu.Item key="1.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("aboutus")}> <Link to="/aboutus">About Us</Link> </Menu.Item>
               </SubMenu>
               
-              <SubMenu key="sub2" icon={<ProfileOutlined /> } title="News">
+              {/* <SubMenu key="sub2" icon={<ProfileOutlined /> } title="News">
                   <Menu.Item key="2.0" style = {iconStyle} onClick={()=>this.props.updateUserSelect("todaynews")}> Today's </Menu.Item>
                   <Menu.Item key="2.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("morenews")}> More... </Menu.Item>
-              </SubMenu>
+              </SubMenu> */}
               
               <SubMenu key="sub3" icon={<UserDeleteOutlined /> } title="Victims">
-                  <Menu.Item key="3.0" style = {iconStyle} onClick={()=>this.props.updateUserSelect("fallenHeros")}> <Link to= "/fallenheros">Fallen Heros</Link></Menu.Item>
-                  <Menu.Item key="3.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("detained")}> Detained Status </Menu.Item>
+                  <Menu.Item key="3.0" style = {iconStyle} onClick={()=>this.props.updateUserSelect("fallenHeros")}> <Link to= "/fallenheros">Fallen Heroes</Link></Menu.Item>
+                  <Menu.Item key="3.1" style = {iconStyle} onClick={()=>this.props.updateUserSelect("detained")}> <Link to = "/detainStatus" >Detained Status</Link></Menu.Item>
                   <Menu.Item key="3.2" style = {iconStyle} onClick={()=>this.props.updateUserSelect("505")}> 505 </Menu.Item>
               </SubMenu>
               
-              <Menu.Item key="3" icon={<DeleteOutlined style = {iconStyle}/>}>
+              {/* <Menu.Item key="3" icon={<DeleteOutlined style = {iconStyle}/>}>
                 Dickheads
-              </Menu.Item>
+              </Menu.Item> */}
 
               
               <Menu.Item key="5" icon={<MailOutlined style = {iconStyle}/>}>
-                Contact Us
+                <Link to = "/contact" >Contact Us</Link>
               </Menu.Item>
              
               <SubMenu key="sub6" icon={<DollarCircleOutlined /> } title="Donate">

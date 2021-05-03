@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
-import { Layout, Image} from 'antd';
+import { Layout} from 'antd';
 
 import NavSider from './navsider';
 import NavContent from './navcontent'
 import {
   BrowserRouter as Router,
-  Link,
-  useLocation
 } from "react-router-dom";
-
+import logo from '../image/logo.png';
 
 const { Header, Content, Footer } = Layout;
 const symbolColor = "#980002";
@@ -37,12 +35,12 @@ class Navbar extends Component {
             <NavSider  test = {userSelection} updateUserSelect={this.updateSelection}/>
             <Layout className="site-layout" style={{ marginLeft: 200 , backgroundColor: 'white'}}>
               <Header className="site-layout-background" style={{ padding: 0, backgroundColor: symbolColor, textAlign: 'center', color: 'white'} } >
-                    Nway Oo Taw Lan Yay Logo
+                  <img src={logo} alt="Logo" width="300" height="58"/>
               </Header>
               
               <NavContent userSelect = {userSelection}/> 
               
-              <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+              <Footer style={{ textAlign: 'center' }}>Created by MMPA</Footer>
             </Layout>
             </Router>
           </Layout>

@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import _ from "lodash"
 import { Table } from 'antd';
 
+
+
 const columns = [
     {
         title: 'Name',
@@ -10,29 +12,22 @@ const columns = [
         sortDirections: ['descend', 'ascend'],
     },
     {
-        title: 'Age',
-        render: (record) => {
-            if (record.Age < 0 )
-                return "Unknown"
-            else
-                return record.Age;
-        },
-        sorter: (a, b) => a.Age - b.Age,
-        sortDirections: ['descend', 'ascend'],
+        title: 'Sex/Age',
+        render: (record) => record.Sex.Age,
+        sorter: (a, b) => {
+            let x= a.Sex.Age.charAt(0) 
+            let y= b.Sex.Age.charAt(0)
 
-    },
-    {
-        title: 'Sex',
-        dataIndex: 'Sex',
-        sorter: (a, b) => a.Sex> b.Sex,
+            return x>y
+        },
         sortDirections: ['descend', 'ascend'],
     },
     {
-        title: 'Date',
-        dataIndex: 'DOI',
+        title: 'Date of Arresst',
+        dataIndex: 'DOA',
         sorter: (a,b) => {
-            let x = new Date(a.DOI);
-            let y= new Date(b.DOI);
+            let x = new Date(a.DOA);
+            let y= new Date(b.DOA);
             return x.getMonth()>y.getMonth();
         },
         sortDirections: ['descend', 'ascend'],
@@ -40,21 +35,22 @@ const columns = [
         
     },
     {
-        title: 'Organization',
-        dataIndex: 'Organization',
-        sorter: (a, b) => a.Organization.length - b.Organization.length,
+        title: 'Current Condition',
+        dataIndex: 'CC',
+        sorter: (a, b) => a.CC > b.CC,
         sortDirections: ['descend', 'ascend'],
     },
     {
-        title: 'State',
-        dataIndex: 'State',
-        sorter: (a, b) => a.State.length - b.State.length,
+        title: 'Address',
+        dataIndex: 'Address',
+        sorter: (a, b) => a.Address > b.Address,
         sortDirections: ['descend', 'ascend'],
     }
 ]
 
 
-class TableBody extends Component {
+
+class TableBodyD extends Component {
     
     
     
@@ -69,4 +65,4 @@ class TableBody extends Component {
     }
 }
  
-export default TableBody;
+export default TableBodyD;

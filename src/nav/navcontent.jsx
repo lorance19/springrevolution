@@ -1,20 +1,22 @@
 import React, { Component } from 'react';
 import { Layout} from 'antd';
 import HowitStart from '../contents/home/howitstart'
-import {TodayNews} from '../contents/news/todaynews'
+import Contact from '../contact/contact'
+// import {TodayNews} from '../contents/news/todaynews'
 import FallenHeros from '../victims/fallenheros'
-import Detains from '../victims/detained'
+import DetainStatus from '../victims/detained'
+// import {symbolColor, headerStyles } from '../constants/styles'
+
 import {
     BrowserRouter as Router,
     Switch,
-    Route
+    Route,
   } from "react-router-dom";
 const {  Content } = Layout;
 
 class ChoosenContent extends Component {
     
     render() {
-        const {userSelect} = this.props; 
 
 
 
@@ -25,10 +27,17 @@ class ChoosenContent extends Component {
                 <Switch>
                     <Route path="/howitstart" component={HowitStart}/>
                     <Route path="/fallenheros" component= {FallenHeros} />
+                    <Route path="/detainStatus" component= {DetainStatus} />
+                    <Route path="/contact" component= {Contact} />
+                    <Route path="/source"  component={() => { 
+                            window.location.href = 'https://aappb.org/'; 
+                            return null;
+                    }} />
                     <Route path=""  component={HowitStart} />
                     
                 </Switch>
                 </div>
+               
               </Content>
          );
     }

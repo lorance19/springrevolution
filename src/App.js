@@ -1,7 +1,6 @@
 
-import { BrowserRouter,Route, Switch } from "react-router-dom";
-import {Container} from 'react-bootstrap'
-import React, { Component } from 'react';
+
+import React from 'react';
 
 import Nav from './nav/nav'
 import 'antd/dist/antd.css';
